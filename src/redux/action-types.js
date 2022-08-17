@@ -1,0 +1,6 @@
+export const ActionTypes = {
+    START_TASK: 'ADD_TASK',
+    DELETE_TASK: 'DELETE_TASK',
+    SET_SURE: "SET_SURE",
+    SET_STARTED_ITEMS: 'SET_STARTED_ITEMS'
+}
